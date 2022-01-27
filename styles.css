@@ -62,6 +62,10 @@ div.border {
 table.display {
     width: 100%;
 }
+div.display {
+    width : 100%;
+}
+
 .ws4 img {
     position: relative;
     left:0px;
